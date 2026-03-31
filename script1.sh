@@ -5,7 +5,7 @@
 # Purpose: Introduces the Linux system, displaying OS info, user info, and license.
 
 # --- Variables ---
-STUDENT_NAME=Aman Panday
+STUDENT_NAME=Harsh Sirohi
 SOFTWARE_CHOICE="Apache HTTP Server"
 
 # --- System Info Gathering (Command Substitution) ---
